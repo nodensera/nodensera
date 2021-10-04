@@ -24,7 +24,6 @@ I'm a passionate FrontEnd developer who loves building creative and responsive w
 <code><img height="25" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></code>
 <code><img height="25" alt="Postgres" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></code>
 <code><img height="25" alt="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
-<code><img height="25" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
 
 ---
 
@@ -34,12 +33,13 @@ I'm a passionate FrontEnd developer who loves building creative and responsive w
 
 <img align="leftt" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nodensera&langs_count=8&theme=vue-dark" />
 
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/nonesdenn?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 <!--
 ---
 
 🧰 Toolbox
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 
 ---
