@@ -33,7 +33,10 @@ I'm a passionate FrontEnd developer who loves building creative and responsive w
 
 <img align="leftt" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nodensera&langs_count=8&theme=vue-dark" />
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/nonesdenn?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/nonesdenn?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=nonesdenn)
+![Website](https://img.shields.io/website?label=nonedsera.com&style=for-the-badge&url=https%3A%2F%2Fns-personal-portfolio.netlify.app)
+
+
 <!--
 ---
 
